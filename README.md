@@ -37,3 +37,19 @@ docker run -d -p 27017:27017 --name mongo -v mongo_data:/data/db -e MONGO_INITDB
 ```bash
 npm install mongoose --save
 ```
+
+```bash
+npm install bcrypt
+```
+
+```txt
+creamos modelo
+```
+
+```txt
+creamos controlador
+```
+
+```txt
+creamos ruta
+```
